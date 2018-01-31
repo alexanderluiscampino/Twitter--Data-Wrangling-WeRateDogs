@@ -1,65 +1,27 @@
 # TwitterDataWrangling
-In this module Tweeter data is  gathered, assessed and cleaned. For that purpose a Python notebook is used. The twitter API is used to collect tweets which are later cleaned up. Information about the  data collected is then presented in graphical form.
+In this module Tweeter data is  gathered/mined, assessed and cleaned. For that purpose a Python notebook is used. The twitter API is used to collect tweets which are later cleaned up. Information about the  data collected is then presented in graphical form.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Fork or Clone the project to your own Git. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Python Jupyter Notebooks are essential for these project. Also any package that are shown on the first lines of the main project file wrangle_report.ipynb
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Download the following essential files:
+- wrangle_report.ipynb
+- dog_breed_stats.csv
+- twitter_archive_master.csv
 
-Say what the step will be
+Create Twitter API Keys [here](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens)
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Jupyter Notebooks](http://jupyter.org/)
 
 ## Contributing
 
@@ -71,9 +33,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Alexandre Campino** - *Initial work* 
 
 ## License
 
@@ -81,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Udacity Lessons
+* Stack Overflow
+* GitHub Repositories

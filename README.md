@@ -23,6 +23,10 @@ and presented through visualizations and text.
 
 Although the whole notebook is only factual about this page, WeRateDogs, the code part about fetching the Json file for the Twitter API can be applied to any other Twitter account. As well as all the techniques employed for data wrangling and cleaning.
 
+The project procedure and difficulties can be found on the file wrangle_act.ipynb and act_report.ipynb.
+
+All other files are outputs of the code. 
+
 ## Built With
 
 * [Jupyter Notebooks](http://jupyter.org/)

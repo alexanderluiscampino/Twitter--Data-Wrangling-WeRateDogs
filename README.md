@@ -3,7 +3,7 @@ In this module Tweeter data is  gathered/mined, assessed and cleaned. For that p
 
 ## Getting Started
 
-Fork or Clone the project to your own Git. 
+Fork or Clone the project to own GitHub repository. Use this code to mine Twitter Data using their API. Adapt to what it needed from the Json file retrieved from twitter. 
 
 ### Prerequisites
 
@@ -18,6 +18,10 @@ Download the following essential files:
 
 Create Twitter API Keys [here](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens)
 
+After that, the code can be run as a stand alone. It will mine all tweets from the WeRateDogs accounts. This information is then cleaned
+and presented through visualizations and text.
+
+Although the whole notebook is only factual about this page, WeRateDogs, the code part about fetching the Json file for the Twitter API can be applied to any other Twitter account. As well as all the techniques employed for data wrangling and cleaning.
 
 ## Built With
 
